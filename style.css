@@ -1,0 +1,24 @@
+body{
+  background: #000000;
+}
+
+.ploatjeClass{
+  position:absolute;
+  width: 1024px;
+  height: 683px;
+  background: url(http://gp1.pinkbike.org/p5pb8847293/p5pb8847293.jpg);
+  
+}
+
+#log{
+  color:#ffffff;
+  position:absolute;
+  opacity:0;  
+}
+
+#logDetails{
+  color:#ffffff;
+  position:absolute;
+  opacity:0;
+}
+
